@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+table td, table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+    cursor: pointer;
+}
+
+
+
+table {
+    width: 100%;
+    max-width: 900px;
+    margin: 10px auto;
+    border-collapse: collapse;
+}
+.search{
+    width: 100%;
+    max-width: 900px;
+    margin: 2px auto;
+    border-collapse: collapse;
+}
+.sec{
+    display: flex;
+    flex-direction: column;
+    margin: 0 240px;
+}
+
+.fa-rotate-180, .down-n, .down-r-n{
+    display: none;
+}
+/* .fa-rotate-180{
+    display: none;
+} */
