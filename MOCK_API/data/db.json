@@ -1,0 +1,54 @@
+{
+    "users": [
+      {
+        "username": "Sara",
+        "email": "huseyinnova@gmail.com",
+        "id": 1
+      },
+      {
+        "username": "resad",
+        "email": "resaddd@gmail.ru",
+        "id": 2
+      },
+      {
+        "username": "iughki",
+        "email": "idgfd@gmail.com",
+        "id": 3
+      },
+      {
+        "username": "Zenfira",
+        "email": "zenfira@gmail.com",
+        "id": 4
+      },
+      {
+        "username": "asdf",
+        "email": "asd@gmail.com",
+        "id": 5
+      },
+      {
+        "username": "iughki",
+        "email": "ghj@gmail.com",
+        "id": 6
+      },
+      {
+        "username": "asdfg",
+        "email": "asif@gmail.com",
+        "id": 7
+      },
+      {
+        "username": "aaaaaaaaaaa",
+        "email": "hasanova@gmail.com",
+        "id": 8
+      },
+      {
+        "username": "emilya",
+        "email": "hasanova@gmail.com",
+        "id": 9
+      },
+      {
+        "username": "aasdfga",
+        "email": "hasanova@gmail.com",
+        "id": 10
+      }
+    ]
+  }
